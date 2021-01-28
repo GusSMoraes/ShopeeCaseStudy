@@ -54,3 +54,5 @@ Premises:
   - Isabella
   
 # Instructions
+
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/6.png?raw=true" width="250">
