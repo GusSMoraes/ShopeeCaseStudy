@@ -12,11 +12,34 @@ Premises:
 # Requeriments
 - Python (https://www.python.org)
 
-# How to Execute
+# How to execute
 
 ## Method 1
-1 - Download the project
+1 - Download the project:
 
 ![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true)
 
+2 - Unzip the file:
+
+![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/2.png?raw=true)
+
+3 - Open 'casestudy.exe':
+
+![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/3.png?raw=true)
+
 ## Method 2
+1 - Download the project:
+
+![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true)
+
+2 - Unzip the file:
+
+![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/2.png?raw=true)
+
+3- Enter 'cmd':
+
+![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/4.png?raw=true)
+
+4 - Enter 'python casestudy.py':
+
+![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/5.png?raw=true)
