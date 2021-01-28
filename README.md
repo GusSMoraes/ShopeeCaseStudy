@@ -21,28 +21,28 @@ Premises:
 
 2 - Unzip the file:
 
-![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/2.png?raw=true)
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/2.png?raw=true" width="250">
 
 3 - Open 'casestudy.exe':
 
-![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/3.png?raw=true)
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/3.png?raw=true" width="250">
 
 ## Method 2 (Python users)
 1 - Download the project:
 
-![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true)
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true" width="250">
 
 2 - Unzip the file:
 
-![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/2.png?raw=true)
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/2.png?raw=true" width="250">
 
 3- Enter 'cmd':
 
-![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/4.png?raw=true)
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/4.png?raw=true" width="250">
 
 4 - Enter 'python casestudy.py':
 
-![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/5.png?raw=true)
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/5.png?raw=true" width="250">
 
 # Information
 
