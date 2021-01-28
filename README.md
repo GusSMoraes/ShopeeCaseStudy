@@ -14,20 +14,7 @@ Premises:
 
 # How to execute
 
-## Method 1 (non-Python users)
-1 - Download the project:
-
-<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true" width="250">
-
-2 - Unzip the file:
-
-<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/2.png?raw=true" width="250">
-
-3 - Open 'casestudy.exe':
-
-<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/3.png?raw=true" width="250">
-
-## Method 2 (Python users)
+## Method 1 (Python users)
 1 - Download the project:
 
 <img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true" width="250">
