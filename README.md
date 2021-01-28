@@ -42,7 +42,7 @@ Premises:
 
 4 - Enter 'python casestudy.py':
 
-<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/5.png?raw=true" width="250">
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/5.png?raw=true" width="350">
 
 # Information
 
