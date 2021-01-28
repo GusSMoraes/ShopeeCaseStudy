@@ -68,7 +68,7 @@ Premises:
 
 ## Change sale
   - Enter the sale by ID
-  - Enter the attribute you want do change
+  - Enter the attribute you want to change
   - Enter the new value
   - Sale changed
 
@@ -83,4 +83,4 @@ Premises:
   - Show all the previously registered sellers
 
 ## Exit
-  - Finish the program
+  - End of program
