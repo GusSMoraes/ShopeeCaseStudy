@@ -16,6 +16,7 @@ Premises:
 
 ## Method 1
 1 - Download the project
+
 ![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true)
 
 ## Method 2
