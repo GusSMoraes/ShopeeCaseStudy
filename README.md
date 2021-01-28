@@ -56,3 +56,31 @@ Premises:
 # Instructions
 
 <img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/6.png?raw=true" width="250">
+
+## Register sale
+  - Enter the seller name
+    - (One of the previously registered)
+  - Enter the customer name
+  - Enter the date of sale
+  - Enter the sale item name
+  - Enter sale value
+  - New sale added
+
+## Change sale
+  - Enter the sale by ID
+  - Enter the attribute you want do change
+  - Enter the new value
+  - Sale changed
+
+## Remove sale
+  - Enter the sale by ID
+  - Sale removed
+
+## Sales list
+  - Show all the sales ranked by highest to lowest value
+
+## Sellers list
+  - Show all the previously registered sellers
+
+## Exit
+  - Finish the program
