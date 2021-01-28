@@ -17,7 +17,7 @@ Premises:
 ## Method 1 (non-Python users)
 1 - Download the project:
 
-![alt text](https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true width="48")
+<img src ="https://github.com/GusSMoraes/shopee-case-study/blob/main/images/1.png?raw=true" width="48">
 
 2 - Unzip the file:
 
